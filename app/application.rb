@@ -1,3 +1,6 @@
+require 'pry
+'
+
 class Application
   @@items = []
 
